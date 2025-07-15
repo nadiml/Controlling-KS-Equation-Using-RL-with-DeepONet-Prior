@@ -23,7 +23,7 @@ This paper presents a novel reinforcement learning framework that leverages Deep
 
 - 📄 [Paper (coming soon)]()
 - 🎥 [Presentation Video](https://www.youtube.com/watch?v=3eUBd3gUv88)
-- 📊 Muslims in ML Workshop: [https://muslimsinml.substack.com/](https://muslimsinml.substack.com/)
+- 📊 Muslims in ML Workshop: [https://www.musiml.org/](https://www.musiml.org/)
 - 🌐 [ICML 2025 Conference](https://icml.cc/)
 
 ## 🧰 Requirements
