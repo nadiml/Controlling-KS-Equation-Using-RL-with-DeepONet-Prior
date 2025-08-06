@@ -37,7 +37,6 @@ This paper presents a novel reinforcement learning framework that leverages Deep
 ## 🔗 Related Links
 
 - 📄 [Read the Paper (PDF)](MUSLML_ICML2025_DeepONet_Reinforcement_Learning_Nadim_et_al.pdf)
-- 🖼️ [View the Poster (PDF)](Muslim-ICML.pdf)
 - 🎥 [Presentation Video](https://www.youtube.com/watch?v=3eUBd3gUv88)
 - 📊 [Muslims in ML Workshop](https://www.musiml.org/)
 - 🌐 [ICML 2025 Conference](https://icml.cc/)
