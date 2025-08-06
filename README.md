@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="Muslim-ICML.pdf">
-    <img src="Muslim-ICML.png" alt="Poster Preview" width="700"/>
+    <img src="Muslim-ICML.jpg" alt="Poster Preview" width="700"/>
   </a>
 </p>
 
