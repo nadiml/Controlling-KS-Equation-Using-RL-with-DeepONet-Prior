@@ -5,7 +5,6 @@
 
 > 📍 Accepted at the **Muslims in ML Workshop**, co-located with **ICML 2025**, Vancouver, Canada.  
 > 📄 [Read the Paper (PDF)](MUSLML_ICML2025_DeepONet_Reinforcement_Learning_Nadim_et_al.pdf)  
-> 🖼️ [View the Poster (PDF)](Muslim-ICML.pdf)
 
 ---
 
